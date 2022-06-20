@@ -1,3 +1,7 @@
+This was my Password Manager project for my Cyber Security class. This project is a password manager in which it manages different users logins which can include social logins to just user logins to websites and apps.
+
+
+//How to run:
 //Install python
 sudo apt-get install python3
 
